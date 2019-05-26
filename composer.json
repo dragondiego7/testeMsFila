@@ -1,0 +1,14 @@
+{
+    "name": "diegop/teste-ms-fila",
+    "require": {
+        "phpunit/phpunit": "^8.1",
+        "doctrine/annotations": "^1.6",
+        "symfony/routing": "^4.2"
+    },
+    "authors": [
+        {
+            "name": "Diego",
+            "email": "diegoporto.decskill@edp.com"
+        }
+    ]
+}
