@@ -1,6 +1,8 @@
 {
     "name": "diegop/teste-ms-fila",
     "require": {
+        "php": ">=7.3.0",
+        "laravel/lumen-framework": "5.5.*",
         "phpunit/phpunit": "^8.1",
         "doctrine/annotations": "^1.6",
         "symfony/routing": "^4.2"
